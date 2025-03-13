@@ -14,7 +14,7 @@
       }
     },
     "Background":{
-      "qq-4l":{
+      "qq-ZZ-4l":{
         "files":{
           "root://cmsxrootd.fnal.gov//store/mc/Run3Summer22NanoAODv11/ZZto4L_TuneCP5_13p6TeV_powheg-pythia8/NANOAODSIM/126X_mcRun3_2022_realistic_v2-v2/60000/720bf67e-fdc4-4f59-b414-77123851eebc.root": "Events",
           "root://cmsxrootd.fnal.gov//store/mc/Run3Summer22NanoAODv11/ZZto4L_TuneCP5_13p6TeV_powheg-pythia8/NANOAODSIM/126X_mcRun3_2022_realistic_v2-v2/60000/688ff6fc-7221-4840-a270-e189a09902e9.root": "Events",
@@ -22,7 +22,32 @@
         },
         "metadata":{
           "Dataset": "ZZto4L_TuneCP5_13p6TeV_powheg-pythia8",
-          "Description": ""
+          "Description": "MC data of ZZto4L of NANOAODSIM format of 2022 collision data",
+          "Year": "2022"
+        }
+      },
+      "gg-ZZ-4l":{
+        "files":{
+          "root://cmsxrootd.fnal.gov//store/mc/Run3Summer22NanoAODv12/GluGlutoContinto2Zto4E_TuneCP5_13p6TeV_mcfm-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/40000/f62d8b04-a6f2-4608-acc4-c4a223ec374b.root": "Events",
+          "root://cmsxrootd.fnal.gov//store/mc/Run3Summer22NanoAODv12/GluGlutoContinto2Zto4E_TuneCP5_13p6TeV_mcfm-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/40000/c4beea77-4382-491d-9ed3-9e22e89cde59.root": "Events",
+          "root://cmsxrootd.fnal.gov//store/mc/Run3Summer22NanoAODv12/GluGlutoContinto2Zto4E_TuneCP5_13p6TeV_mcfm-pythia8/NANOAODSIM/130X_mcRun3_2022_realistic_v5-v2/40000/8e014489-0046-430b-8624-10205979c733.root": "Events"
+        },
+        "metadata":{
+           "Dataset": "GluGlutoContinto2Zto4E_TuneCP5_13p6TeV_mcfm-pythia8",
+           "Description": "MC data of GluGlu2Zto4E of NANOAODSIM format of 2022 collision data",
+           "Year": "2022"
+        }
+      },
+      "DYJetsto4L":{
+        "files":{
+          "root://cmsxrootd.fnal.gov//store/mc/Run3Summer22NanoAODv12/DYJetsToLL_M-50_TuneCP5_13p6TeV-madgraphMLM-pythia8/NANOAODSIM/forPOG_130X_mcRun3_2022_realistic_v5-v2/30000/a2b9e964-5e1c-4b00-928c-612888eb2fa4.root": "Events",
+          "root://cmsxrootd.fnal.gov//store/mc/Run3Summer22NanoAODv12/DYJetsToLL_M-50_TuneCP5_13p6TeV-madgraphMLM-pythia8/NANOAODSIM/forPOG_130X_mcRun3_2022_realistic_v5-v2/40000/dfb45558-1131-4480-9840-91f5e63fdc92.root": "Events",
+          "root://cmsxrootd.fnal.gov//store/mc/Run3Summer22NanoAODv12/DYJetsToLL_M-50_TuneCP5_13p6TeV-madgraphMLM-pythia8/NANOAODSIM/forPOG_130X_mcRun3_2022_realistic_v5-v2/40000/3da9592b-5b8b-4972-af5a-96f9b18cd771.root": "Events" 
+        },
+        "metadata":{
+          "Dataset": "DYJetsToLL_M-50_TuneCP5_13p6TeV-madgraphMLM-pythia8",
+          "Description": "MC data of DYJetsToLL of NANOAODSIM format of 2022 collision data",
+          "Year": "2022"  
         }
       }
     }
